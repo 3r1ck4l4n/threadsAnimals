@@ -1,0 +1,16 @@
+C:\Users\yeder\OneDrive\Escritorio\.NET\testSerializacion\testSerializacion\bin\Debug\net5.0\testSerializacion.exe
+C:\Users\yeder\OneDrive\Escritorio\.NET\testSerializacion\testSerializacion\bin\Debug\net5.0\testSerializacion.deps.json
+C:\Users\yeder\OneDrive\Escritorio\.NET\testSerializacion\testSerializacion\bin\Debug\net5.0\testSerializacion.runtimeconfig.json
+C:\Users\yeder\OneDrive\Escritorio\.NET\testSerializacion\testSerializacion\bin\Debug\net5.0\testSerializacion.runtimeconfig.dev.json
+C:\Users\yeder\OneDrive\Escritorio\.NET\testSerializacion\testSerializacion\bin\Debug\net5.0\testSerializacion.dll
+C:\Users\yeder\OneDrive\Escritorio\.NET\testSerializacion\testSerializacion\bin\Debug\net5.0\ref\testSerializacion.dll
+C:\Users\yeder\OneDrive\Escritorio\.NET\testSerializacion\testSerializacion\bin\Debug\net5.0\testSerializacion.pdb
+C:\Users\yeder\OneDrive\Escritorio\.NET\testSerializacion\testSerializacion\obj\Debug\net5.0\testSerializacion.csproj.AssemblyReference.cache
+C:\Users\yeder\OneDrive\Escritorio\.NET\testSerializacion\testSerializacion\obj\Debug\net5.0\testSerializacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeder\OneDrive\Escritorio\.NET\testSerializacion\testSerializacion\obj\Debug\net5.0\testSerializacion.AssemblyInfoInputs.cache
+C:\Users\yeder\OneDrive\Escritorio\.NET\testSerializacion\testSerializacion\obj\Debug\net5.0\testSerializacion.AssemblyInfo.cs
+C:\Users\yeder\OneDrive\Escritorio\.NET\testSerializacion\testSerializacion\obj\Debug\net5.0\testSerializacion.csproj.CoreCompileInputs.cache
+C:\Users\yeder\OneDrive\Escritorio\.NET\testSerializacion\testSerializacion\obj\Debug\net5.0\testSerializacion.dll
+C:\Users\yeder\OneDrive\Escritorio\.NET\testSerializacion\testSerializacion\obj\Debug\net5.0\ref\testSerializacion.dll
+C:\Users\yeder\OneDrive\Escritorio\.NET\testSerializacion\testSerializacion\obj\Debug\net5.0\testSerializacion.pdb
+C:\Users\yeder\OneDrive\Escritorio\.NET\testSerializacion\testSerializacion\obj\Debug\net5.0\testSerializacion.genruntimeconfig.cache

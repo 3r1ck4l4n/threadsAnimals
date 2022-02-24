@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\yeder\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\yeder\\.nuget\\packages"
+    ]
+  }
+}
